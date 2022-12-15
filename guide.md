@@ -4,3 +4,8 @@
 
 * https://spring.io/quickguide
 * https://spring.io/guides/gs/rest-service/
+
+
+## DOCKERFILE
+
+* https://www.baeldung.com/java-dockerize-app
